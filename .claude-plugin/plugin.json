@@ -1,0 +1,24 @@
+{
+  "name": "falatu",
+  "displayName": "Falatu.ai",
+  "version": "0.1.0",
+  "description": "Connect Falatu.ai, inspect Instagram activity, preview keyword automations, and manage drafts with approval before live changes.",
+  "author": {
+    "name": "Nuno Labs PTY LTD",
+    "email": "hello@falatu.ai",
+    "url": "https://falatu.ai"
+  },
+  "homepage": "https://docs.falatu.ai/agents/claude",
+  "repository": "https://github.com/pcauhi/falatu-claude-plugin",
+  "keywords": [
+    "falatu",
+    "instagram",
+    "social-media",
+    "automation"
+  ],
+  "icon": "https://www.falatu.ai/brand/falatu-app-icon.svg",
+  "documentationUrl": "https://docs.falatu.ai/agents/claude",
+  "supportUrl": "https://docs.falatu.ai",
+  "privacyPolicyUrl": "https://falatu.ai/privacy",
+  "termsOfServiceUrl": "https://falatu.ai/terms"
+}
