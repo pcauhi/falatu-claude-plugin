@@ -35,3 +35,7 @@ A Falatu account is required. Instagram workflows need a connected Instagram Pro
 ## Português (Brasil)
 
 Conecte sua conta Falatu pelo login seguro, consulte posts e automações, visualize mensagens e prepare rascunhos. Ativar uma automação pode enviar respostas e DMs reais; agendar pode publicar depois. Revise e aprove essas ações antes da execução. O acesso fica limitado à conta autorizada e às permissões do usuário.
+
+## License
+
+Proprietary, copyright Nuno Labs PTY LTD. Installation and authorized use are permitted; redistribution and other rights are reserved except as expressly allowed in [LICENSE](LICENSE). This license applies only to this bundle.

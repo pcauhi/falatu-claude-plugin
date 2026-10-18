@@ -20,5 +20,6 @@
   "documentationUrl": "https://docs.falatu.ai/agents/claude",
   "supportUrl": "https://docs.falatu.ai",
   "privacyPolicyUrl": "https://falatu.ai/privacy",
-  "termsOfServiceUrl": "https://falatu.ai/terms"
+  "termsOfServiceUrl": "https://falatu.ai/terms",
+  "license": "LicenseRef-Falatu-Proprietary"
 }
